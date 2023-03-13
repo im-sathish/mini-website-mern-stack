@@ -14,12 +14,12 @@ function Header2(){
               <li className="nav-item header">
                 <NavLink className={"nav-link "} to="/home"> Home</NavLink>
               </li>
-              <li class="nav-item">
+              <li className="nav-item">
             
                 <NavLink className={"nav-link"} to="/contact"> Contact</NavLink>
 
               </li>
-              <li class="nav-item">
+              <li className="nav-item">
               <NavLink className={"nav-link"} to="/about"> About</NavLink>
                 
               </li>

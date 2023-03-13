@@ -11,9 +11,7 @@ function Header3(){
               
               <NavLink className={"btn btn-outline-primary size register"} to="/anime"> Logout</NavLink>
 
-          
           </div>
-        <div/>
       </nav>
         </>
     );

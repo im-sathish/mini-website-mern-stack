@@ -11,9 +11,6 @@ import Adminlogin from './Adminlogin';
 function App() {
   return (
     <>
-    {/* <Admin/> */}
-    {/* <Header3/> */}
-    
        <Routes>
        <Route path="/" element={<Anime/>}/>
 

@@ -31,7 +31,7 @@ class Contact extends React.Component{
             
             <>
             <Header2/>
-            <body className="contact">
+            <div className="contact">
    
      <div className="container ">
         <div className="row">
@@ -52,7 +52,7 @@ class Contact extends React.Component{
               </div>
               <div className="mb-4">
                 <label for="exampleFormControlTextarea1" className="form-label"><b>feedback</b></label>
-                <textarea className="form-control" id="exampleFormControlTextarea1" rows="3"onChange={(e)=>this.setState({"feed":e.target.value})}></textarea>
+                <input className="form-control" id="exampleFormControlTextarea1" rows="3" onChange={(e)=>this.setState({"feed":e.target.value})}/> 
               </div>
               <button type="button" className="btn btn-primary" onClick={()=>this.Feedback()}>Submit</button>
           </div>
@@ -65,7 +65,7 @@ class Contact extends React.Component{
         </div>
       </div>
   
-      </body>
+      </div>
       <Footer/>
      </>
             

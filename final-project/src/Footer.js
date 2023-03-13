@@ -1,7 +1,7 @@
 function Footer(){
     return(
         <>
-        <nav class="navbar bg-dark text-center" data-bs-theme="dark">
+        <nav className="navbar bg-dark text-center" data-bs-theme="dark">
     --Copyrights--
   </nav>
         </>

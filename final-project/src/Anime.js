@@ -33,6 +33,7 @@ headers:{ "content-Type":"application/json"},
 console.log(res);
 if(res['message'].includes('SUCCESS')){
   Navigate("/anime1")
+  alert("You will get best experience")
   }
 })
 
@@ -69,7 +70,8 @@ if(res['message'].includes('SUCCESS')){
           </div>
           <br/>
           <div className="signup"><p>Don't have an account?<NavLink className={"signup1"} to="/Register"> Sign up</NavLink>
-</p></div>
+            </p>
+          </div>
       <div/>
       </div>
     </div>

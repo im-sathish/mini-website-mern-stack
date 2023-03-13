@@ -32,6 +32,7 @@ headers:{ "content-Type":"application/json"},
 if(res['message'].includes('SUCCESS')){
 Navigate("/admin1");
 console.log(res);
+alert("Welcome Back Admin")
   
   }
 })
@@ -66,13 +67,11 @@ console.log(res);
           <button type="button" className="btn btn-outline-primary size" onClick={login} >Login</button>
           
           </div>
-          <br/>
-        
-      <div/>
+      
       </div>
     </div>
     </div>
-
+        
   </div>
   
   <Footer/>
