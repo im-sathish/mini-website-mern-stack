@@ -1,0 +1,96 @@
+.navbar.navbar-expand-lg.bg-body-tertiary.home{
+    height: 60px;
+
+}
+.nav.nav-pills.nav-fill.header{
+    font-size: 30px;   
+}
+.navbar-brand.home{
+    font-size: 35px;
+    font-family:fantasy;
+    color:black;
+    letter-spacing: 10px;
+}
+.navbar-brand.home:active{
+    color: blue;
+}
+.navbar-brand.home:hover{
+    font-size: 45px;
+}
+.nav-link{
+    font-size: 20px;
+    color: black;
+}
+.form-floating.mb-3{
+    margin-top: 30px;
+}
+.btn.btn-outline-primary.size{
+    width: 50%;
+    font-family: bold;
+}
+.d-block.w-100.height{
+    height: 850px;
+}
+.carousel.slide.home{
+    width: 80%;
+    height: 100%;
+    margin-left: 120px;
+   
+    margin-bottom: 20px;
+    
+}
+.colorhome{
+    background-color: black;
+    background-size: cover;
+}
+.bg-image.home{
+    background-image: url('home.jpg'); 
+    width: 1349px;
+    height: 2000px ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    }
+    .card.one{
+           width: 100%;
+           margin-top: 50px;
+    }
+    .col-4.home{
+        float: left;
+    }
+    .card-img-top.card1{
+        height: 300px;
+    } 
+    .card-img-top.card2{
+        height: 300px;
+    }
+    .card-img-top.card3{
+        height: 300px;
+    }
+    .card-img-top.card4{
+        height: 300px;
+    }
+    .card-img-top.card5{
+        height: 300px;
+    }
+    
+    .card-img-top.card6{
+        height: 300px;
+    }
+    .card-img-top.card7{
+        height: 300px;
+    }
+    .card-img-top.card8{
+        height: 300px;
+    }
+    .card-img-top.card9{
+        height: 300px;
+    }
+   
+    /* .navbar.bg-dark.text-center.home{
+        font-size: 25px;
+        color: rgb(255, 255, 255);
+        float: right;
+        background-color: rgba(0, 0, 0, 0.822);
+        padding-left: 1020px;
+        padding-right: 43px;
+    } */

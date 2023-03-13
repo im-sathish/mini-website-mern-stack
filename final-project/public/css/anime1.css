@@ -1,0 +1,27 @@
+.animewelcome{
+margin-left: 200px;
+margin-right: -455px;
+padding-left: 60px;
+margin-top: 200px;
+    font-size: 50px;
+    text-shadow: 2px 2px 2px blue;
+}
+.animewelcome:hover{
+        font-size: 80px;
+        text-shadow: 2px 2px 2px blue;
+    }
+.nav-item{
+    margin-left: -100px;
+    margin-right: 100px;
+    padding-right: 30px;
+}
+.btn.btn-outline-primary.size.register{
+    width: 10%;
+}
+.bg-image.anime{
+    background-image: url('index1.png'); 
+    width: 840px;
+    height:620px ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    }

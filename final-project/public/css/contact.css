@@ -1,0 +1,86 @@
+.navbar.navbar-expand-lg.bg-body-tertiary.contact{
+    height: 60px;
+
+}
+.nav.nav-pills.nav-fill.header{
+    font-size: 30px;   
+}
+.navbar-brand.home{
+    font-size: 35px;
+    font-family:fantasy;
+    color:black;
+    letter-spacing: 10px;
+}
+.navbar-brand.home:active{
+    color: blue;
+}
+.navbar-brand.home:hover{
+    font-size: 45px;
+}
+.nav-link{
+    color: black;
+}
+.form-floating.mb-3{
+    margin-top: 30px;
+}
+.btn.btn-outline-primary.size{
+    width: 50%;
+    font-family: bold;
+}
+.d-block.w-100.height{
+    height: 600px;
+}
+.bg-image.contact1{
+    float: left;
+    background-image: url('home.jpg'); 
+    width: 300px;
+    height: 700px ;
+    background-size: cover;
+    background-repeat: no-repeat;
+   margin-left: -55px;
+   
+
+}
+.bg-image.contact2{
+    background-image: url('aboutc.jpg'); 
+    width: 600px;
+    height: 700px ;
+    background-size: cover;
+    background-repeat: no-repeat;
+   margin-left: 42px;
+
+}
+.bg-image.contact3{
+    background-image: url('home.jpg'); 
+    width: 250px;
+    height: 700px ; 
+    background-size: cover;
+    background-repeat: no-repeat;
+   margin-left: 46px;
+
+   margin-right: -50px;
+    
+}
+.contact{
+    background-color: black;
+
+}
+.col-8.contacts{
+    margin-left: 75px;
+    margin-top: 120px;
+    width: 70%;
+    height: 50%;
+}
+  /* .navbar.bg-dark.text-center.contact{
+        font-size: 25px;
+        color: rgb(255, 255, 255);
+        float: right;
+        background-color: rgba(0, 0, 0, 0.822);
+        padding-left: 1023.5px;
+        padding-right: 43px;
+        margin-top:-20px ;
+    } */
+    .input-group-text.user{
+        height: 45px;
+        margin-top: 25px;
+    }

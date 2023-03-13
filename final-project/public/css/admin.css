@@ -1,0 +1,48 @@
+
+.btn.btn-outline-primary.size.userlist{
+    font-size: 20px;
+    margin-top: 30px;
+    margin-left: 10px;
+    color: black;
+    width:360%;
+}
+.btn.btn-outline-primary.size.userlist:hover{
+    font-size: 30px;
+   
+}
+.btn.btn-outline-primary.delete{
+    font-size: 20px;
+    margin-left: 400px;
+    color: black;
+    margin-top: -85px;
+    width:100%;
+}
+.btn.btn-outline-primary.delete:hover{
+    font-size: 25px;
+
+}
+.form-control.delete{
+    width: 250%;
+    margin-top: 25px;
+    height: 45px;
+    margin-left: 10px;
+    
+
+}
+.adminhead{
+    font-size: 60px;
+    /* border-style: solid; */
+    float: right;
+    
+    margin-top: 100px;
+    margin-right:-420px ;
+    
+
+}
+.bg-image.admin{
+    background-image: url('index1.png'); 
+    width: 900px;
+    height: 620px ;
+    background-size: cover;
+    background-repeat: no-repeat;
+}

@@ -1,0 +1,52 @@
+.navbar.navbar-expand-lg.bg-body-tertiary.head{
+    height: 50px;
+}
+.nav.nav-pills.nav-fill.header{
+    font-size: 30px;   
+}
+.navbar-brand.home{
+    font-size: 35px;
+    font-family:fantasy;
+    color:black;
+    letter-spacing: 10px;
+}
+.navbar-brand.home:active{
+    color: blue;
+}
+.navbar-brand.home:hover{
+    font-size: 45px;
+}
+.nav-link{
+    color: black;
+}
+.form-floating.mb-3{
+    margin-top: 30px;
+}
+.btn.btn-outline-primary.size{
+    width: 50%;
+    font-family: bold;
+}
+.signup{
+    float: center;
+    text-decoration:none;
+}
+.signup1{
+ 
+    text-decoration:none;
+}
+.welcome{
+    margin-top: 150px;
+}
+.bg-image.index{
+background-image: url('index1.png'); 
+width: 1140px;
+height: 720px ;
+background-size: cover;
+background-repeat: no-repeat;
+}
+.btn.btn-outline-primary.admin {
+    width: 12%;
+    float: right;
+    margin-right: -650px;
+    font-family: bold;
+}

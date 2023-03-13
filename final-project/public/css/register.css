@@ -1,0 +1,74 @@
+
+.bg-image.register{
+    background-image: url('index1.png'); 
+    width: 1160px;
+    height: 720px ;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.navbar.navbar-expand-lg.bg-body-tertiary.head{
+    height: 60px;
+}
+.nav.nav-pills.nav-fill.header{
+    font-size: 30px;   
+}
+.navbar-brand.home{
+    font-size: 35px;
+    font-family:fantasy;
+    color:black;
+    letter-spacing: 10px;
+}
+.navbar-brand.home:active{
+    color: blue;
+}
+.navbar-brand.home:hover{
+    font-size: 45px;
+}
+.nav-link{
+    color: black;
+}
+.form-floating.mobile{
+    margin-top: 10px;
+}
+.form-floating.password{
+    margin-top: 10px;
+}
+.form-floating.mb-3.register{
+    margin-top: 20px;
+}
+.btn.btn-outline-primary.size{
+    width: 40%;
+    font-family: bold;
+}
+.container.register{
+    float: right;
+    margin-top: 85px;
+    padding-left: 100px;
+    border-style: none;
+}
+.btn.btn-outline-primary.size.login{
+    margin-left: 226px;
+    margin-top: -68px;
+}
+/* .navbar.bg-dark.text-center{
+    font-size: 25px;
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+    float: right;
+    background-color: rgba(0, 0, 0, 0.822);
+    padding-left: 1023.5px;
+    padding-right: 43px;
+} */
+.box{
+    
+    margin-left: 700px;
+    margin-right: 50px;
+}
+.form-control{
+    width: 105%;
+    margin-top: 25px;
+    height: 45px;
+    margin-left: px;
+    
+
+}
